@@ -1,0 +1,61 @@
+﻿Sex,OrganismPart,Histology,ClinicalInformation,metastasis
+male,Stomach,mixed,Miettinen risk status: high risk,no metastasis
+male,small intestine,spindle,Miettinen risk status: high risk,metastasis
+female,stomach,spindle,Miettinen risk status: low risk,no metastasis
+male,stomach,spindle,Miettinen risk status: high risk,metastasis
+male,small intestine,spindle,Miettinen risk status: high risk,no metastasis
+male,stomach,spindle,Miettinen risk status: low risk,no metastasis
+male,stomach,spindle,Miettinen risk status: high risk,metastasis
+male,small intestine,spindle,Miettinen risk status: low risk,no metastasis
+female,duodenum,spindle,Miettinen risk status: low risk,no metastasis
+male,retroperitoneum,spindle,Miettinen risk status: high risk,no metastasis
+female,stomach,spindle,Miettinen risk status: intermediate,no metastasis
+male,mesenterium,epithelioid,Miettinen risk status: intermediate,metastasis
+male,stomach,spindle,Miettinen risk status: low risk,no metastasis
+male,jejunum,mixed,Miettinen risk status: high risk,metastasis
+male,duodenum,spindle,Miettinen risk status: intermediate,no metastasis
+male,colon,spindle,Miettinen risk status: intermediate,metastasis
+female,abdominal wall,spindle,Miettinen risk status: high risk,no metastasis
+female,stomach,spindle,Miettinen risk status: intermediate,no metastasis
+female,stomach,epithelioid,Miettinen risk status: intermediate,no metastasis
+female,small intestine,spindle,Miettinen risk status: low risk,no metastasis
+female,peritoneum,spindle,Miettinen risk status: low risk,no metastasis
+female,stomach,spindle,Miettinen risk status: high risk,no metastasis
+male,stomach,spindle,Miettinen risk status: high risk,metastasis
+male,stomach,spindle,Miettinen risk status: intermediate,no metastasis
+male,stomach,spindle,Miettinen risk status: intermediate,no metastasis
+male,stomach,mixed,Miettinen risk status: low risk,no metastasis
+female,stomach,mixed,Miettinen risk status: intermediate,no metastasis
+male,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,stomach,spindle,Miettinen risk status: intermediate,no metastasis
+male,stomach,spindle,Miettinen risk status: very low,no metastasis
+female,stomach,spindle,Miettinen risk status: intermediate,metastasis
+female,stomach,epithelioid,Miettinen risk status: high risk,metastasis
+male,stomach,spindle,Miettinen risk status: intermediate,metastasis
+male,stomach,spindle,Miettinen risk status: low risk,no metastasis
+female,stomach,mixed,Miettinen risk status: low risk,no metastasis
+female,stomach,epithelioid,Miettinen risk status: low risk,no metastasis
+female,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,stomach,spindle,Miettinen risk status: low risk,no metastasis
+male,stomach,mixed,Miettinen risk status: very low,no metastasis
+male,small intestine,spindle,Miettinen risk status: very low,no metastasis
+male,stomach,spindle,Miettinen risk status: high risk,metastasis
+male,small intestine,spindle,Miettinen risk status: low risk,no metastasis
+male,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,small intestine,spindle,Miettinen risk status: high risk,no metastasis
+female,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,stomach,spindle,Miettinen risk status: intermediate,no metastasis
+female,stomach,mixed,Miettinen risk status: very low,no metastasis
+male,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,small intestine,spindle,Miettinen risk status: high risk,metastasis
+male,stomach,spindle,Miettinen risk status: high risk,metastasis
+female,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,stomach,epithelioid,Miettinen risk status: very low,no metastasis
+female,stomach,mixed,Miettinen risk status: high risk,metastasis
+male,stomach,spindle,Miettinen risk status: very low,no metastasis
+male,rectum,spindle,Miettinen risk status: high risk,metastasis
+female,small intestine,spindle,Miettinen risk status: low risk,no metastasis
+female,small intestine,spindle,Miettinen risk status: intermediate,no metastasis
+male,duodenum,mixed,Miettinen risk status: low risk,no metastasis
+female,Stomach,spindle,Miettinen risk status: low risk,no metastasis

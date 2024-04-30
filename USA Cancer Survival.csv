@@ -1,0 +1,774 @@
+﻿Survival Rate,Gender,Cancer Type
+0.683,females,Bladder
+0.704,females,Bladder
+0.727,females,Bladder
+0.727,females,Bladder
+0.719,females,Bladder
+0.719,females,Bladder
+0.75,females,Bladder
+0.754,females,Bladder
+0.773,females,Bladder
+0.748,females,Bladder
+0.744,females,Bladder
+0.737,males,Bladder
+0.751,males,Bladder
+0.781,males,Bladder
+0.781,males,Bladder
+0.813,males,Bladder
+0.817,males,Bladder
+0.821,males,Bladder
+0.804,males,Bladder
+0.809,males,Bladder
+0.819,males,Bladder
+0.792,males,Bladder
+0.24,females,Bladder
+0.27,females,Bladder
+0.381,females,Bladder
+0.401,females,Bladder
+0.47,females,Bladder
+0.528,females,Bladder
+0.529,females,Bladder
+0.585,females,Bladder
+0.462,females,Bladder
+0.56,females,Bladder
+0.6,females,Bladder
+0.558,females,Bladder
+0.562,females,Bladder
+0.24,males,Bladder
+0.38,males,Bladder
+0.565,males,Bladder
+0.626,males,Bladder
+0.649,males,Bladder
+0.623,males,Bladder
+0.675,males,Bladder
+0.657,males,Bladder
+0.678,males,Bladder
+0.656,males,Bladder
+0.718,males,Bladder
+0.683,males,Bladder
+0.7,males,Bladder
+0.53,females,Bladder
+0.6,females,Bladder
+0.703,females,Bladder
+0.723,females,Bladder
+0.74,females,Bladder
+0.736,females,Bladder
+0.731,females,Bladder
+0.731,females,Bladder
+0.769,females,Bladder
+0.759,females,Bladder
+0.794,females,Bladder
+0.76,females,Bladder
+0.754,females,Bladder
+0.53,males,Bladder
+0.61,males,Bladder
+0.743,males,Bladder
+0.754,males,Bladder
+0.786,males,Bladder
+0.784,males,Bladder
+0.819,males,Bladder
+0.826,males,Bladder
+0.825,males,Bladder
+0.811,males,Bladder
+0.815,males,Bladder
+0.826,males,Bladder
+0.796,males,Bladder
+0.748,females,Breast
+0.744,females,Breast
+0.761,females,Breast
+0.789,females,Breast
+0.84,females,Breast
+0.852,females,Breast
+0.864,females,Breast
+0.882,females,Breast
+0.897,females,Breast
+0.902,females,Breast
+0.911,females,Breast
+0.46,females,Breast
+0.51,females,Breast
+0.622,females,Breast
+0.634,females,Breast
+0.634,females,Breast
+0.651,females,Breast
+0.711,females,Breast
+0.715,females,Breast
+0.727,females,Breast
+0.762,females,Breast
+0.789,females,Breast
+0.779,females,Breast
+0.827,females,Breast
+0.63,females,Breast
+0.68,females,Breast
+0.756,females,Breast
+0.751,females,Breast
+0.771,females,Breast
+0.8,females,Breast
+0.851,females,Breast
+0.865,females,Breast
+0.876,females,Breast
+0.894,females,Breast
+0.908,females,Breast
+0.917,females,Breast
+0.922,females,Breast
+0.691,females,Cervix uteri
+0.674,females,Cervix uteri
+0.669,females,Cervix uteri
+0.672,females,Cervix uteri
+0.701,females,Cervix uteri
+0.696,females,Cervix uteri
+0.726,females,Cervix uteri
+0.726,females,Cervix uteri
+0.724,females,Cervix uteri
+0.695,females,Cervix uteri
+0.688,females,Cervix uteri
+0.47,females,Cervix uteri
+0.61,females,Cervix uteri
+0.646,females,Cervix uteri
+0.61,females,Cervix uteri
+0.592,females,Cervix uteri
+0.579,females,Cervix uteri
+0.57,females,Cervix uteri
+0.581,females,Cervix uteri
+0.628,females,Cervix uteri
+0.648,females,Cervix uteri
+0.66,females,Cervix uteri
+0.626,females,Cervix uteri
+0.583,females,Cervix uteri
+0.58,females,Cervix uteri
+0.64,females,Cervix uteri
+0.697,females,Cervix uteri
+0.681,females,Cervix uteri
+0.678,females,Cervix uteri
+0.688,females,Cervix uteri
+0.725,females,Cervix uteri
+0.709,females,Cervix uteri
+0.742,females,Cervix uteri
+0.736,females,Cervix uteri
+0.734,females,Cervix uteri
+0.708,females,Cervix uteri
+0.708,females,Cervix uteri
+0.506,females,Colon and rectum
+0.522,females,Colon and rectum
+0.542,females,Colon and rectum
+0.576,females,Colon and rectum
+0.593,females,Colon and rectum
+0.613,females,Colon and rectum
+0.6,females,Colon and rectum
+0.625,females,Colon and rectum
+0.641,females,Colon and rectum
+0.66,females,Colon and rectum
+0.666,females,Colon and rectum
+0.49,males,Colon and rectum
+0.502,males,Colon and rectum
+0.538,males,Colon and rectum
+0.577,males,Colon and rectum
+0.598,males,Colon and rectum
+0.61,males,Colon and rectum
+0.598,males,Colon and rectum
+0.624,males,Colon and rectum
+0.661,males,Colon and rectum
+0.659,males,Colon and rectum
+0.661,males,Colon and rectum
+0.459,females,Colon and rectum
+0.469,females,Colon and rectum
+0.495,females,Colon and rectum
+0.49,females,Colon and rectum
+0.545,females,Colon and rectum
+0.515,females,Colon and rectum
+0.521,females,Colon and rectum
+0.529,females,Colon and rectum
+0.53,females,Colon and rectum
+0.591,females,Colon and rectum
+0.601,females,Colon and rectum
+0.433,males,Colon and rectum
+0.434,males,Colon and rectum
+0.429,males,Colon and rectum
+0.475,males,Colon and rectum
+0.499,males,Colon and rectum
+0.544,males,Colon and rectum
+0.513,males,Colon and rectum
+0.551,males,Colon and rectum
+0.554,males,Colon and rectum
+0.545,males,Colon and rectum
+0.575,males,Colon and rectum
+0.507,females,Colon and rectum
+0.525,females,Colon and rectum
+0.543,females,Colon and rectum
+0.583,females,Colon and rectum
+0.595,females,Colon and rectum
+0.621,females,Colon and rectum
+0.606,females,Colon and rectum
+0.632,females,Colon and rectum
+0.657,females,Colon and rectum
+0.666,females,Colon and rectum
+0.673,females,Colon and rectum
+0.493,males,Colon and rectum
+0.506,males,Colon and rectum
+0.545,males,Colon and rectum
+0.585,males,Colon and rectum
+0.605,males,Colon and rectum
+0.617,males,Colon and rectum
+0.603,males,Colon and rectum
+0.628,males,Colon and rectum
+0.674,males,Colon and rectum
+0.674,males,Colon and rectum
+0.67,males,Colon and rectum
+0.075,females,Esophagus 
+0.056,females,Esophagus 
+0.082,females,Esophagus 
+0.121,females,Esophagus 
+0.095,females,Esophagus 
+0.134,females,Esophagus 
+0.117,females,Esophagus 
+0.144,females,Esophagus 
+0.195,females,Esophagus 
+0.189,females,Esophagus 
+0.223,females,Esophagus 
+0.04,males,Esophagus 
+0.048,males,Esophagus 
+0.06,males,Esophagus 
+0.084,males,Esophagus 
+0.094,males,Esophagus 
+0.117,males,Esophagus 
+0.122,males,Esophagus 
+0.13,males,Esophagus 
+0.176,males,Esophagus 
+0.187,males,Esophagus 
+0.206,males,Esophagus 
+0.02,females,Esophagus 
+0.03,females,Esophagus 
+0.077,females,Esophagus 
+0.068,females,Esophagus 
+0.065,females,Esophagus 
+0.099,females,Esophagus 
+0.102,females,Esophagus 
+0.084,females,Esophagus 
+0.069,females,Esophagus 
+0.136,females,Esophagus 
+0.163,females,Esophagus 
+0.166,females,Esophagus 
+0.138,females,Esophagus 
+0,males,Esophagus 
+0.04,males,Esophagus 
+0.02,males,Esophagus 
+0.034,males,Esophagus 
+0.037,males,Esophagus 
+0.082,males,Esophagus 
+0.053,males,Esophagus 
+0.097,males,Esophagus 
+0.078,males,Esophagus 
+0.085,males,Esophagus 
+0.106,males,Esophagus 
+0.113,males,Esophagus 
+0.103,males,Esophagus 
+0.06,females,Esophagus 
+0.04,females,Esophagus 
+0.07,females,Esophagus 
+0.052,females,Esophagus 
+0.09,females,Esophagus 
+0.13,females,Esophagus 
+0.092,females,Esophagus 
+0.148,females,Esophagus 
+0.127,females,Esophagus 
+0.147,females,Esophagus 
+0.197,females,Esophagus 
+0.194,females,Esophagus 
+0.234,females,Esophagus 
+0.04,males,Esophagus 
+0.04,males,Esophagus 
+0.048,males,Esophagus 
+0.053,males,Esophagus 
+0.065,males,Esophagus 
+0.09,males,Esophagus 
+0.11,males,Esophagus 
+0.122,males,Esophagus 
+0.136,males,Esophagus 
+0.139,males,Esophagus 
+0.186,males,Esophagus 
+0.2,males,Esophagus 
+0.22,males,Esophagus 
+0.063,females,Liver
+0.054,females,Liver
+0.052,females,Liver
+0.095,females,Liver
+0.08,females,Liver
+0.07,females,Liver
+0.061,females,Liver
+0.091,females,Liver
+0.122,females,Liver
+0.156,females,Liver
+0.178,females,Liver
+0.018,males,Liver
+0.022,males,Liver
+0.029,males,Liver
+0.037,males,Liver
+0.032,males,Liver
+0.05,males,Liver
+0.053,males,Liver
+0.083,males,Liver
+0.109,males,Liver
+0.158,males,Liver
+0.187,males,Liver
+0.056,females,Liver
+0.05,females,Liver
+0.047,females,Liver
+0.091,females,Liver
+0.049,females,Liver
+0.036,females,Liver
+0.073,females,Liver
+0.02,females,Liver
+0.095,females,Liver
+0.16,females,Liver
+0.13,females,Liver
+0,males,Liver
+0.03,males,Liver
+0.021,males,Liver
+0.021,males,Liver
+0.016,males,Liver
+0.02,males,Liver
+0.028,males,Liver
+0.059,males,Liver
+0.068,males,Liver
+0.085,males,Liver
+0.143,males,Liver
+0.058,females,Liver
+0.048,females,Liver
+0.054,females,Liver
+0.091,females,Liver
+0.094,females,Liver
+0.083,females,Liver
+0.057,females,Liver
+0.102,females,Liver
+0.117,females,Liver
+0.139,females,Liver
+0.168,females,Liver
+0.019,males,Liver
+0.022,males,Liver
+0.03,males,Liver
+0.037,males,Liver
+0.034,males,Liver
+0.051,males,Liver
+0.049,males,Liver
+0.076,males,Liver
+0.097,males,Liver
+0.156,males,Liver
+0.18,males,Liver
+0.153,females,Lung and bronchus
+0.163,females,Lung and bronchus
+0.164,females,Lung and bronchus
+0.16,females,Lung and bronchus
+0.15,females,Lung and bronchus
+0.159,females,Lung and bronchus
+0.169,females,Lung and bronchus
+0.168,females,Lung and bronchus
+0.179,females,Lung and bronchus
+0.192,females,Lung and bronchus
+0.226,females,Lung and bronchus
+0.111,males,Lung and bronchus
+0.113,males,Lung and bronchus
+0.115,males,Lung and bronchus
+0.112,males,Lung and bronchus
+0.119,males,Lung and bronchus
+0.121,males,Lung and bronchus
+0.125,males,Lung and bronchus
+0.129,males,Lung and bronchus
+0.131,males,Lung and bronchus
+0.145,males,Lung and bronchus
+0.166,males,Lung and bronchus
+0.06,females,Lung and bronchus
+0.1,females,Lung and bronchus
+0.138,females,Lung and bronchus
+0.178,females,Lung and bronchus
+0.149,females,Lung and bronchus
+0.128,females,Lung and bronchus
+0.111,females,Lung and bronchus
+0.127,females,Lung and bronchus
+0.157,females,Lung and bronchus
+0.15,females,Lung and bronchus
+0.152,females,Lung and bronchus
+0.144,females,Lung and bronchus
+0.207,females,Lung and bronchus
+0.05,males,Lung and bronchus
+0.06,males,Lung and bronchus
+0.105,males,Lung and bronchus
+0.097,males,Lung and bronchus
+0.101,males,Lung and bronchus
+0.103,males,Lung and bronchus
+0.108,males,Lung and bronchus
+0.093,males,Lung and bronchus
+0.112,males,Lung and bronchus
+0.107,males,Lung and bronchus
+0.108,males,Lung and bronchus
+0.127,males,Lung and bronchus
+0.142,males,Lung and bronchus
+0.11,females,Lung and bronchus
+0.14,females,Lung and bronchus
+0.154,females,Lung and bronchus
+0.162,females,Lung and bronchus
+0.166,females,Lung and bronchus
+0.163,females,Lung and bronchus
+0.153,females,Lung and bronchus
+0.162,females,Lung and bronchus
+0.171,females,Lung and bronchus
+0.17,females,Lung and bronchus
+0.18,females,Lung and bronchus
+0.197,females,Lung and bronchus
+0.226,females,Lung and bronchus
+0.07,males,Lung and bronchus
+0.09,males,Lung and bronchus
+0.111,males,Lung and bronchus
+0.115,males,Lung and bronchus
+0.117,males,Lung and bronchus
+0.112,males,Lung and bronchus
+0.12,males,Lung and bronchus
+0.125,males,Lung and bronchus
+0.126,males,Lung and bronchus
+0.131,males,Lung and bronchus
+0.133,males,Lung and bronchus
+0.148,males,Lung and bronchus
+0.169,males,Lung and bronchus
+0.253,females,Myeloma
+0.275,females,Myeloma
+0.294,females,Myeloma
+0.269,females,Myeloma
+0.255,females,Myeloma
+0.279,females,Myeloma
+0.31,females,Myeloma
+0.303,females,Myeloma
+0.319,females,Myeloma
+0.429,females,Myeloma
+0.518,females,Myeloma
+0.239,males,Myeloma
+0.244,males,Myeloma
+0.257,males,Myeloma
+0.277,males,Myeloma
+0.289,males,Myeloma
+0.305,males,Myeloma
+0.322,males,Myeloma
+0.245,males,Myeloma
+0.368,males,Myeloma
+0.449,males,Myeloma
+0.504,males,Myeloma
+0.295,females,Myeloma
+0.375,females,Myeloma
+0.279,females,Myeloma
+0.303,females,Myeloma
+0.303,females,Myeloma
+0.306,females,Myeloma
+0.357,females,Myeloma
+0.304,females,Myeloma
+0.32,females,Myeloma
+0.463,females,Myeloma
+0.54,females,Myeloma
+0.289,males,Myeloma
+0.274,males,Myeloma
+0.296,males,Myeloma
+0.333,males,Myeloma
+0.297,males,Myeloma
+0.38,males,Myeloma
+0.349,males,Myeloma
+0.328,males,Myeloma
+0.367,males,Myeloma
+0.422,males,Myeloma
+0.505,males,Myeloma
+0.1,females,Myeloma
+0.17,females,Myeloma
+0.247,females,Myeloma
+0.255,females,Myeloma
+0.289,females,Myeloma
+0.262,females,Myeloma
+0.245,females,Myeloma
+0.269,females,Myeloma
+0.295,females,Myeloma
+0.299,females,Myeloma
+0.315,females,Myeloma
+0.42,females,Myeloma
+0.511,females,Myeloma
+0.13,males,Myeloma
+0.2,males,Myeloma
+0.236,males,Myeloma
+0.241,males,Myeloma
+0.254,males,Myeloma
+0.258,males,Myeloma
+0.291,males,Myeloma
+0.296,males,Myeloma
+0.313,males,Myeloma
+0.343,males,Myeloma
+0.368,males,Myeloma
+0.462,males,Myeloma
+0.501,males,Myeloma
+0.36,females,Ovary
+0.377,females,Ovary
+0.389,females,Ovary
+0.384,females,Ovary
+0.382,females,Ovary
+0.405,females,Ovary
+0.415,females,Ovary
+0.439,females,Ovary
+0.439,females,Ovary
+0.443,females,Ovary
+0.467,females,Ovary
+0.32,females,Ovary
+0.32,females,Ovary
+0.413,females,Ovary
+0.388,females,Ovary
+0.375,females,Ovary
+0.394,females,Ovary
+0.339,females,Ovary
+0.355,females,Ovary
+0.415,females,Ovary
+0.392,females,Ovary
+0.356,females,Ovary
+0.373,females,Ovary
+0.385,females,Ovary
+0.32,females,Ovary
+0.36,females,Ovary
+0.353,females,Ovary
+0.369,females,Ovary
+0.385,females,Ovary
+0.375,females,Ovary
+0.382,females,Ovary
+0.404,females,Ovary
+0.406,females,Ovary
+0.433,females,Ovary
+0.436,females,Ovary
+0.439,females,Ovary
+0.462,females,Ovary
+0.678,males,Prostate
+0.701,males,Prostate
+0.72,males,Prostate
+0.752,males,Prostate
+0.828,males,Prostate
+0.929,males,Prostate
+0.952,males,Prostate
+0.974,males,Prostate
+0.993,males,Prostate
+0.996,males,Prostate
+0.992,males,Prostate
+0.35,males,Prostate
+0.55,males,Prostate
+0.607,males,Prostate
+0.621,males,Prostate
+0.628,males,Prostate
+0.657,males,Prostate
+0.711,males,Prostate
+0.844,males,Prostate
+0.917,males,Prostate
+0.949,males,Prostate
+0.973,males,Prostate
+0.978,males,Prostate
+0.974,males,Prostate
+0.5,males,Prostate
+0.63,males,Prostate
+0.685,males,Prostate
+0.712,males,Prostate
+0.731,males,Prostate
+0.764,males,Prostate
+0.844,males,Prostate
+0.941,males,Prostate
+0.959,males,Prostate
+0.979,males,Prostate
+0.997,males,Prostate
+0.998,males,Prostate
+0.996,males,Prostate
+0.863,females,Skin
+0.877,females,Skin
+0.873,females,Skin
+0.91,females,Skin
+0.915,females,Skin
+0.918,females,Skin
+0.926,females,Skin
+0.927,females,Skin
+0.946,females,Skin
+0.952,females,Skin
+0.957,females,Skin
+0.775,males,Skin
+0.777,males,Skin
+0.784,males,Skin
+0.826,males,Skin
+0.849,males,Skin
+0.87,males,Skin
+0.873,males,Skin
+0.895,males,Skin
+0.901,males,Skin
+0.913,males,Skin
+0.92,males,Skin
+0.895,females,Skin
+0.786,females,Skin
+0.761,females,Skin
+0.745,females,Skin
+0.749,females,Skin
+0.666,males,Skin
+0.68,males,Skin
+0.696,males,Skin
+0.7,males,Skin
+0.595,males,Skin
+0.68,females,Skin
+0.75,females,Skin
+0.862,females,Skin
+0.879,females,Skin
+0.872,females,Skin
+0.91,females,Skin
+0.913,females,Skin
+0.918,females,Skin
+0.926,females,Skin
+0.927,females,Skin
+0.946,females,Skin
+0.954,females,Skin
+0.957,females,Skin
+0.51,males,Skin
+0.62,males,Skin
+0.777,males,Skin
+0.779,males,Skin
+0.784,males,Skin
+0.822,males,Skin
+0.849,males,Skin
+0.871,males,Skin
+0.871,males,Skin
+0.893,males,Skin
+0.902,males,Skin
+0.914,males,Skin
+0.919,males,Skin
+0.166,females,Stomach
+0.189,females,Stomach
+0.187,females,Stomach
+0.209,females,Stomach
+0.243,females,Stomach
+0.254,females,Stomach
+0.226,females,Stomach
+0.242,females,Stomach
+0.252,females,Stomach
+0.308,females,Stomach
+0.346,females,Stomach
+0.144,males,Stomach
+0.143,males,Stomach
+0.164,males,Stomach
+0.155,males,Stomach
+0.17,males,Stomach
+0.181,males,Stomach
+0.201,males,Stomach
+0.21,males,Stomach
+0.234,males,Stomach
+0.261,males,Stomach
+0.289,males,Stomach
+0.14,females,Stomach
+0.1,females,Stomach
+0.161,females,Stomach
+0.18,females,Stomach
+0.167,females,Stomach
+0.221,females,Stomach
+0.225,females,Stomach
+0.237,females,Stomach
+0.219,females,Stomach
+0.253,females,Stomach
+0.207,females,Stomach
+0.349,females,Stomach
+0.385,females,Stomach
+0.05,males,Stomach
+0.15,males,Stomach
+0.161,males,Stomach
+0.156,males,Stomach
+0.162,males,Stomach
+0.169,males,Stomach
+0.166,males,Stomach
+0.22,males,Stomach
+0.175,males,Stomach
+0.204,males,Stomach
+0.25,males,Stomach
+0.236,males,Stomach
+0.257,males,Stomach
+0.13,females,Stomach
+0.14,females,Stomach
+0.158,females,Stomach
+0.182,females,Stomach
+0.175,females,Stomach
+0.209,females,Stomach
+0.231,females,Stomach
+0.232,females,Stomach
+0.219,females,Stomach
+0.232,females,Stomach
+0.244,females,Stomach
+0.293,females,Stomach
+0.331,females,Stomach
+0.1,males,Stomach
+0.12,males,Stomach
+0.131,males,Stomach
+0.136,males,Stomach
+0.154,males,Stomach
+0.143,males,Stomach
+0.155,males,Stomach
+0.161,males,Stomach
+0.189,males,Stomach
+0.186,males,Stomach
+0.21,males,Stomach
+0.255,males,Stomach
+0.281,males,Stomach
+0.925,females,Thyroid
+0.936,females,Thyroid
+0.939,females,Thyroid
+0.943,females,Thyroid
+0.952,females,Thyroid
+0.955,females,Thyroid
+0.967,females,Thyroid
+0.969,females,Thyroid
+0.971,females,Thyroid
+0.984,females,Thyroid
+0.987,females,Thyroid
+0.911,males,Thyroid
+0.872,males,Thyroid
+0.922,males,Thyroid
+0.898,males,Thyroid
+0.916,males,Thyroid
+0.905,males,Thyroid
+0.916,males,Thyroid
+0.91,males,Thyroid
+0.943,males,Thyroid
+0.949,males,Thyroid
+0.962,males,Thyroid
+0.91,females,Thyroid
+0.955,females,Thyroid
+0.932,females,Thyroid
+0.903,females,Thyroid
+0.923,females,Thyroid
+0.862,females,Thyroid
+0.943,females,Thyroid
+0.964,females,Thyroid
+0.924,females,Thyroid
+0.967,females,Thyroid
+0.979,females,Thyroid
+0.68,males,Thyroid
+1,males,Thyroid
+0.855,males,Thyroid
+0.912,males,Thyroid
+0.845,males,Thyroid
+0.878,males,Thyroid
+0.865,males,Thyroid
+0.884,males,Thyroid
+0.95,males,Thyroid
+0.908,males,Thyroid
+0.87,females,Thyroid
+0.87,females,Thyroid
+0.922,females,Thyroid
+0.927,females,Thyroid
+0.937,females,Thyroid
+0.944,females,Thyroid
+0.949,females,Thyroid
+0.96,females,Thyroid
+0.969,females,Thyroid
+0.973,females,Thyroid
+0.974,females,Thyroid
+0.985,females,Thyroid
+0.99,females,Thyroid
+0.75,males,Thyroid
+0.82,males,Thyroid
+0.907,males,Thyroid
+0.875,males,Thyroid
+0.909,males,Thyroid
+0.894,males,Thyroid
+0.915,males,Thyroid
+0.916,males,Thyroid
+0.915,males,Thyroid
+0.913,males,Thyroid
+0.95,males,Thyroid
+0.951,males,Thyroid
+0.965,males,Thyroid
